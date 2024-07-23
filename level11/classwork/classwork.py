@@ -1,7 +1,5 @@
-age = input("enter your namber: ")
-age2 = input("enter your namber: ")
+age = int(input("enter your age: "))
+my_age = 12
 
-print(age > age2 )
-
-
+print(my_age = age or age > my_age)
 
